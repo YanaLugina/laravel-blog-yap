@@ -55,7 +55,7 @@
     <div class="content">
         <h1>О блоге</h1>
         <p>Эксперименты с Ларавелем на Хекслете</p>
-
+        <a href=<?= url('about'); ?> ></a>
     </div>
 </div>
 </body>
