@@ -83,7 +83,7 @@
                 <div class="title m-b-md">
                     Hello World!
                 </div>
-
+                <a href="<?= url('about'); ?>">About</a>
             </div>
         </div>
     </body>
